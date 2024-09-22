@@ -74,4 +74,5 @@ This project aims to:
 3. **Network Optimization**: Identify cost-effective network upgrades that address capacity shortfalls.
 4. **Reporting and Recommendations**: Present findings, including capacity assessments and upgrade recommendations.
 
-## Snippets from the project : - 
+## Project Visualizations
+Below are some key visualizations from our analysis:
