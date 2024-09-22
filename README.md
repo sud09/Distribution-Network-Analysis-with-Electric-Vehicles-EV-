@@ -76,3 +76,6 @@ This project aims to:
 
 ## Project Visualizations
 Below are some key visualizations from our analysis:
+![ratio](https://github.com/user-attachments/assets/dfeadc0a-f60b-4d75-86b7-4d22c0a45858)
+![location_EV](https://github.com/user-attachments/assets/448470c9-e6a0-4334-b1ee-f62356fb8d5c)
+![Cust_data_dist](https://github.com/user-attachments/assets/a6fa1abb-a44b-4681-ba1e-46885f62156f)
