@@ -76,9 +76,4 @@ This project aims to:
 3. **Network Optimization**: Identify cost-effective network upgrades that address capacity shortfalls.
 4. **Reporting and Recommendations**: Present findings, including capacity assessments and upgrade recommendations.
 
-## How to Run
-
-1. Clone the repository to your local machine.
-2. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
+## Snippets from the project : - 
