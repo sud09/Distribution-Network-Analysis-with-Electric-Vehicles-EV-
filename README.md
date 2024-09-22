@@ -1,5 +1,3 @@
-
-readme_content = """
 # Electric Vehicle Distribution Network Analysis
 
 ## Business Overview/Problem
